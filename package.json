@@ -1,0 +1,13 @@
+{
+  "name": "tsx-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsx": "^3.8.1"
+  }
+}
